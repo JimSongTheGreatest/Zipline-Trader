@@ -13,7 +13,7 @@
 
 |
 
-Zipline-Trader, the on-premise trading platform built on top of Quantopian's `zipline <https://github.com/quantopian/zipline>`_.
+Zipline-Trader, the on-premise trading platform built on Quantopian's `zipline <https://github.com/quantopian/zipline>`_.
 ==============
 
 
