@@ -13,18 +13,7 @@
 
 |
 
-.. image:: ./images/zipline-live2.small.png
-    :target: https://github.com/shlomikushchi/zipline-trader
-    :width: 212px
-    :align: center
-    :alt: zipline-live
-
-### CurrentWorkingProgress
-```txt
-Studying how it is architected
-```
-
-# Zipline-Trader, the on-premise trading platform built on top of Quantopian's `zipline <https://github.com/quantopian/zipline>`_.
+Zipline-Trader, the on-premise trading platform built on top of Quantopian's `zipline <https://github.com/quantopian/zipline>`_.
 ==============
 
 
