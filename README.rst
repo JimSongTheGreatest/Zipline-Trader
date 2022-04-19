@@ -23,3 +23,5 @@ This project is meant to be used for backtesting/paper/live trading with one the
 
 
 Please `Read The Docs <https://zipline-trader.readthedocs.io/en/latest/index.html#>`_
+
+Currently working on using Alpaca and alpha vantage as a free data sources to test out
